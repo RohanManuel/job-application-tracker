@@ -19,7 +19,7 @@ Node Js, Express Js
 Mongo DB, Mongoose
 
 ### Deployments : 
-Heroku and Vercel
+Vercel
 
 
 
